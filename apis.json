@@ -1,0 +1,38 @@
+{
+    "name": "Austin, TX",
+    "description": "The City of Austin Open Data Portal at data.austintexas.gov provides public access to datasets from the Austin municipal government. It uses the Socrata data portal software to help you share data, visualize it in charts, and perform lightweight analysis.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/data-austin-texax-gov.png",
+    "tags": [
+        "city government",
+        "data provider",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/austin-tx\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Austin, TX",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/data-austin-texax-gov.png",
+            "humanURL": "https:\/\/data.austintexas.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/austin-tx-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/data.austintexas.gov\/"
+        }
+    ]
+}
